@@ -25,3 +25,5 @@ print('computador:',comp,'jogador:',jog)
 sleep(1)
 print(win)
 sleep(3)
+
+
